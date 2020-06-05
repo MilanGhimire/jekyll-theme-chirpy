@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://www.ghimiremilan.com.np/blog/sitemap.xml

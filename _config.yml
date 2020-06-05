@@ -13,9 +13,7 @@ title: Milan Ghimire Blog                          # the main title
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Milan Ghimire is an Mobile App developer.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://www.ghimiremilan.com.np'
@@ -46,14 +44,14 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: ''
+baseurl: '/blog'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kathmandu
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'UA-166177908-1'
   # The Google Analytics pageviews switch.
 
   pv:
