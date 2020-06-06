@@ -10,7 +10,9 @@ Today I found one problem in Picasso. Which is if the EXIF data is greater than 
 
 So I used the library named Glide by bumptech.
 
-### Dependiency of Glide
+To use glide first we need to add the dependencies to the app level `gradle`.
+
+### Dependencies of Glide
 
 ```kotlin
 implementation "com.github.bumptech.glide:glide:4.11.0"
@@ -18,8 +20,6 @@ annotationProcessor "com.github.bumptech.glide:compiler:4.11.0"
 ```
 
 ### How to use Glide
-
-To use glide first we need to add the dependencies to the app level `gradle`.
 
 ```gradle
 Glide.with(context).load(pathToUri).into(yourView)
