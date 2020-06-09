@@ -1,7 +1,7 @@
 ---
-title: Things to know for your interview of Kotlin
+title: Checking Internet Connectivity
 author: Milan Ghimire
-date: 2020-06-05 20:32:05 +05:45
+date: 2020-06-09 23:32:05 +05:45
 categories: [Kotlin]
 tags: []
 ---
