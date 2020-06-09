@@ -57,3 +57,5 @@ and if we accept this then the TempData will work.
 #### Conclusion
 TempData uses cookie which is disabled by ASP.NET Core as default. So we can achieve either making
 it essential or giving message to accept the cookie.
+
+[stackoverflow source](https://stackoverflow.com/questions/41734039/tempdata-null-in-asp-net-core)
