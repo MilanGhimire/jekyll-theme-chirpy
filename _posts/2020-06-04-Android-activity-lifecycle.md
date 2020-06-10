@@ -3,7 +3,7 @@ title: Android Activity Lifecycle
 author: Milan GHimire
 date: 2020-06-04 21:23:52 +0545
 categories: [Kotlin]
-tags: []
+tags: [untaged]
 ---
 
 Each Activity has its life cycle.

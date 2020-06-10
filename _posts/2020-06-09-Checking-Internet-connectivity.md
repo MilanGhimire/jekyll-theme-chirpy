@@ -3,7 +3,7 @@ title: Checking Internet Connectivity
 author: Milan Ghimire
 date: 2020-06-09 23:32:05 +05:45
 categories: [Kotlin]
-tags: []
+tags: [untaged]
 ---
 
 

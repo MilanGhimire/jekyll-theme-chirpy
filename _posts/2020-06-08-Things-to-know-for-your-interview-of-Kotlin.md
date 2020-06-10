@@ -3,7 +3,7 @@ title: Things to know for your interview of Kotlin
 author: Milan Ghimire
 date: 2020-06-05 20:32:05 +05:45
 categories: [Kotlin]
-tags: []
+tags: [untaged]
 ---
 
 
