@@ -2,31 +2,35 @@
 title: Run PHP Laravel project and how to host in shared hosting
 author: Milan Ghimire
 date: 2020-06-10 20:46:15 +05:45
-categories: [Database]
+categories: [php laravel]
 tags: [untaged]
 ---
 
 Following are the instructions:
 
 `Run PHP`
+
 `php artisan serve`
 
 Changes need to do after cloning:
-    1. Setup `.env` file
-    2. `composer install` in the root folder
-    3. `composer update` in the root folder
-    4. `php artisan key:generate` in the root folder
-    5. `php artisan config:cache`  to clear cache
+1. Setup `.env` file
+2. `composer install` in the root folder
+3. `composer update` in the root folder
+4. `php artisan key:generate` in the root folder
+5. `php artisan config:cache`  to clear cache
 
-Hosting to Share Hosting
+### Hosting to Share Hosting
 ./Public (Folder) To the website Path /public_html or root folder of the website
+
 ./* (Except Public) to different folder
 
 then configure the path where the folder is kept in file of `./Pubic/index.php` in
+
 `require __DIR__.'/../vendor/autoload.php';`
+
 `$app = require_once __DIR__.'/../bootstrap/app.php';`
 
-these files path
+### Configuring .env file
 
 then configure the .env file database as for me like,
 

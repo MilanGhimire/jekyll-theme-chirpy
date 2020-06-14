@@ -10,10 +10,10 @@
 
 title: Milan Ghimire Blog                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Freelancer and Mobile appp developer.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Milan Ghimire is an Mobile App developer.
+  Milan Ghimire is an Freelancer and Mobile App developer.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://www.ghimiremilan.com.np'
@@ -36,8 +36,8 @@ social:
     - https://twitter.com/MilanGhimire      # change to your twitter homepage
     - https://github.com/MilanGhimire       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/milansbook
+    - https://www.linkedin.com/in/milan-ghimire-238895134/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

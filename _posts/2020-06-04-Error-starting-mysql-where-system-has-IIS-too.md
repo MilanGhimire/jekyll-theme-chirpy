@@ -1,14 +1,14 @@
 ---
 title: Error starting Mysql in windows where IIS is also installed
 author: Milan Ghimire
-date: 2020-06-10 20:46:15 +05:45
-categories: [php laravel]
-tags: [untaged]
+date: 2020-06-10 20:55:05 +05:45
+categories: [Database]
+tags: [mysql]
 ---
 
 
 I got this error:
-
+```shell
 1:34:34 PM  [Apache] 	Error: Apache shutdown unexpectedly.
 1:34:34 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
 1:34:34 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
@@ -16,6 +16,7 @@ I got this error:
 1:34:34 PM  [Apache] 	the Windows Event Viewer for more clues
 1:34:34 PM  [Apache] 	If you need more help, copy and post this
 1:34:34 PM  [Apache] 	entire log window on the forums
+```
 
 It is because the IIS is running in port 80,
 to solve 

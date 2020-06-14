@@ -50,7 +50,7 @@ Add this to your page.
 
 This will show message which shows up like this.
 
-![Asp.net Core Cookie policy accept]({{{ "assets/img/post/cookie-accept-asp-net-core.png" | relative_url }}})
+![Asp.net Core Cookie policy accept]( "assets/img/post/cookie-accept-asp-net-core.png" | relative_url )
 
 and if we accept this then the TempData will work.
 
