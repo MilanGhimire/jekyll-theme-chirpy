@@ -1,14 +1,12 @@
 ---
-title: Flutter - Mixed ListView (Advance)
+title: Flutter - Flutter Equivalent of Match parent and Wrap Content
 author: Milan Ghimire
-date: 2020-07-07 22:17:22 +05:45
+date: 2020-07-07 22:41:22 +05:45
 categories: [Flutter]
 tags: [untaged]
 ---
 
 So those who have come from the Android. We always use height and weight attribute as `warp_content` and `match_parent` in our .xml file. But sadly in Flutter we cannot use that. So the solution for equivalent of wrap_content and match_parent are as follows:
-
-
 
 You can do with little Trick: Suppose you have requirement of : ( Width,Height )
 
