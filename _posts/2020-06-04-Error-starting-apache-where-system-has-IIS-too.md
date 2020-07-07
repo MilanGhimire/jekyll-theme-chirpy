@@ -1,9 +1,9 @@
 ---
-title: Error starting Mysql in windows where IIS is also installed
+title: Error starting Apache in windows where IIS is also installed
 author: Milan Ghimire
 date: 2020-06-10 20:55:05 +05:45
-categories: [Database]
-tags: [mysql]
+categories: []
+tags: [untaged]
 ---
 
 
